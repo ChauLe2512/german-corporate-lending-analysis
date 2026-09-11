@@ -9,7 +9,7 @@ The same analytical problem was completed through two workflows:
 
 ## Dashboard
 
-![German Corporate Lending Dashboard](dashboard 1.png)
+![German Corporate Lending Dashboard](dashboard_1.png)
 
 **Interactive dashboard:** [View on Tableau Public](https://public.tableau.com/views/germany_corporate_lending/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
